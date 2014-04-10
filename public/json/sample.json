@@ -3,9 +3,9 @@
    "type": "dir",
    "contents": [
       {
-         "name": "file1",
+         "name": "README",
          "type": "text",
-         "contents": "Hello World!",
+         "contents": "My name is Mark Randhawa and I'm a Web developer",
          "description": "FOOO"
       },
       {
