@@ -5,9 +5,11 @@
       {
          "name": "README",
          "type": "text",
-         "contents": "My name is Mark Randhawa and I'm a Web developer",
-         "description": "FOOO"
+         "contents": "My name is Mark Randhawa and I'm a Web developer. I'm currently looking for a junior developer role. You can contact me at <a class=\"exec\" href='mailto:mark.randhawa@gmail.com'>mark.randhawa@gmail.com</a> or follow me on Twitter <a class=\"exec\" target=\"_blank\" href=\"https://twitter.com/markrandhawa\">@markrandhawa</a>.",
+         "description": "FOOOftrgfg"
       },
+
+
       {
          "name": "pic.jpg",
          "type": "img",
@@ -15,13 +17,20 @@
          "caption": "What a beautiful penguin."
       },
       {
-         "name": "dir1",
+         "name": "projects",
          "type": "dir",
          "contents": [
             {
-               "name": "file2",
-               "type": "text",
-               "contents": "foo"
+               "name": "samp.lr",
+               "type": "exec",
+               "contents": "http://samp-lr.herokuapp.com/",
+               "description": "A keyboard drum machine, allowing you to create your own songs using the samples provided."
+            },
+            {
+               "name": "cheerups",
+               "type": "exec",
+               "contents": "http://cheerups-2014.herokuapp.com/",
+               "description": "A keyboard drum machine, allowing you to create your own songs using the samples provided."
             },
             {
                "name": "foo",
