@@ -30,7 +30,7 @@
                "name": "cheerups",
                "type": "exec",
                "contents": "http://cheerups-2014.herokuapp.com/",
-               "description": "A keyboard drum machine, allowing you to create your own songs using the samples provided."
+               "description": "Allows users to create and share 'cheerups' – happy little quips to brighten other peoples' days, which are limited to 141 characters."
             },
             {
                "name": "foo",
