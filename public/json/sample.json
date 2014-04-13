@@ -40,15 +40,10 @@
                "type": "exec",
                "contents": "https://github.com/randhm",
                "description": "I have various projects hosted on my GitHub account."
-            },
-
-
-            {
-               "name": "MoveJS",
-               "type": "exec",
-               "contents": "http://clarkduvall.github.io/move/",
-               "description": "Small JS library for creating particle systems with HTML canvas."
             }
+
+
+
          ]
       },
       {
@@ -59,7 +54,7 @@
                "name": "pic.jpg",
                      "type": "img",
                      "contents": "/images/pic.jpg",
-                     "caption": "me"
+                     "caption": "Hendrix one night comeback special"
             }
          ]
       }

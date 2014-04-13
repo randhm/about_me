@@ -491,11 +491,9 @@
           .enqueue('******')
           .enqueue('cat README')
           .enqueue('help')
-          .enqueue('ls -l')
           .enqueue('cd projects')
           .enqueue('ls -l')
-          .enqueue('cd ../..')
-          .enqueue('ls dir1/foo')
+          .enqueue('cd ..')
           .enqueue('tree')
           .begin();
    });
