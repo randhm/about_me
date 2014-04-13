@@ -5,7 +5,7 @@
       {
          "name": "README",
          "type": "text",
-         "contents": "My name is Mark Randhawa. I recently completed a 12 week web development bootcamp and I'm now looking for a junior developer role. You can contact me at <a class=\"exec\" href='mailto:mark.randhawa@gmail.com'>mark.randhawa@gmail.com</a> or follow me on Twitter <a class=\"exec\" target=\"_blank\" href=\"https://twitter.com/markrandhawa\">@markrandhawa</a>.",
+         "contents": "My name is Mark Randhawa. I recently completed a 12 week web development bootcamp with General Assembly and I'm now looking for a junior developer role. You can contact me at <a class=\"exec\" href='mailto:mark.randhawa@gmail.com'>mark.randhawa@gmail.com</a> or follow me on Twitter <a class=\"exec\" target=\"_blank\" href=\"https://twitter.com/markrandhawa\">@markrandhawa</a>.",
          "description": "FOOOftrgfg"
       },
       {
@@ -54,7 +54,7 @@
                "name": "pic.jpg",
                      "type": "img",
                      "contents": "/images/pic.jpg",
-                     "caption": "Hendrix one night comeback special"
+                     "caption": "My Hendrix one night comeback special"
             }
          ]
       }
