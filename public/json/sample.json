@@ -5,16 +5,13 @@
       {
          "name": "README",
          "type": "text",
-         "contents": "My name is Mark Randhawa and I'm a Web developer. I'm currently looking for a junior developer role. You can contact me at <a class=\"exec\" href='mailto:mark.randhawa@gmail.com'>mark.randhawa@gmail.com</a> or follow me on Twitter <a class=\"exec\" target=\"_blank\" href=\"https://twitter.com/markrandhawa\">@markrandhawa</a>.",
+         "contents": "My name is Mark Randhawa. I recently completed a 12 week web development bootcamp and I'm now looking for a junior developer role. You can contact me at <a class=\"exec\" href='mailto:mark.randhawa@gmail.com'>mark.randhawa@gmail.com</a> or follow me on Twitter <a class=\"exec\" target=\"_blank\" href=\"https://twitter.com/markrandhawa\">@markrandhawa</a>.",
          "description": "FOOOftrgfg"
       },
-
-
       {
-         "name": "pic.jpg",
-         "type": "img",
-         "contents": "/images/penguin.png",
-         "caption": "What a beautiful penguin."
+         "name": "CV",
+         "type": "exec",
+         "contents": "/downloads/CV.pdf"
       },
       {
          "name": "projects",
@@ -33,16 +30,36 @@
                "description": "Allows users to create and share 'cheerups' – happy little quips to brighten other peoples' days, which are limited to 141 characters."
             },
             {
-               "name": "foo",
-               "type": "dir",
-               "contents": [
-                  {
-                     "name": "file3",
-                     "type": "exec",
-                     "contents": "http://google.com",
-                     "description": "blahblah"
-                  }
-               ]
+               "name": "Blog",
+               "type": "exec",
+               "contents": "http://theboytookflight.wordpress.com/",
+               "description": "During my web development course, I created a blog which I updated weekly. It charts my progress and the topics covered."
+            },
+            {
+               "name": "Github",
+               "type": "exec",
+               "contents": "https://github.com/randhm",
+               "description": "I have various projects hosted on my GitHub account."
+            },
+
+
+            {
+               "name": "MoveJS",
+               "type": "exec",
+               "contents": "http://clarkduvall.github.io/move/",
+               "description": "Small JS library for creating particle systems with HTML canvas."
+            }
+         ]
+      },
+      {
+         "name": "images",
+         "type": "dir",
+         "contents": [
+            {
+               "name": "pic.jpg",
+                     "type": "img",
+                     "contents": "/images/pic.jpg",
+                     "caption": "me"
             }
          ]
       }
